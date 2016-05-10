@@ -1,0 +1,6 @@
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Neisha\Desktop\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
